@@ -1,3 +1,6 @@
+//Given a non-negative integer x, compute and return the square root of x.
+//Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned.
+//question link: https://leetcode.com/problems/sqrtx/
 import java.util.Scanner;
 public class day2 {
     public static void main(String[] args){
